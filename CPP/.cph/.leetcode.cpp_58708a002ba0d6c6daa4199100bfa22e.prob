@@ -1,0 +1,1 @@
+{"name":"Local: leetcode","url":"g:\\Code Programs\\CPP\\leetcode.cpp","tests":[{"id":1723913640805,"input":"2 1 4 7 3 2 5 1","output":"YES"},{"id":1726408088381,"input":"10 3 5 7 2 9 11 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Code Programs\\CPP\\leetcode.cpp","group":"local","local":true}

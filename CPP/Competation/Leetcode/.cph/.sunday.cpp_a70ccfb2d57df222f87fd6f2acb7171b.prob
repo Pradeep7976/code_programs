@@ -1,0 +1,1 @@
+{"name":"Local: sunday","url":"f:\\Code Programs\\CPP\\Competation\\Leetcode\\sunday.cpp","tests":[{"id":1680403658853,"input":"1\n5\n31 2 9 20 6","output":"abcd"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code Programs\\CPP\\Competation\\Leetcode\\sunday.cpp","group":"local","local":true}

@@ -1,0 +1,1 @@
+{"name":"Local: LeetCode5","url":"f:\\Code Programs\\CPP\\LeetCode5.cpp","tests":[{"id":1680607342134,"input":"5 2\n1 2 3 4 5","output":""},{"id":1691157333744,"input":"5\nababab","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"f:\\Code Programs\\CPP\\LeetCode5.cpp","group":"local","local":true}

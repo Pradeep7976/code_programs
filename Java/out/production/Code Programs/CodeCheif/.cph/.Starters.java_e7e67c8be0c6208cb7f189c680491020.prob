@@ -1,0 +1,1 @@
+{"name":"Local: Starters","url":"g:\\Code Programs\\Java\\CpZone\\src\\CodeCheif\\Starters.java","tests":[{"id":1729696514356,"input":"4\n4\n5 2 1 2 3\n3\n3 10 30 1\n4\n16 4 8 2 1\n4\n20 100 30 49 15s","output":"df"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"g:\\Code Programs\\Java\\CpZone\\src\\CodeCheif\\Starters.java","group":"local","local":true}

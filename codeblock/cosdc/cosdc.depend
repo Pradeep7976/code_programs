@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1664386215 source:f:\code programs\codeblock\cosdc\main.cpp
+	<iostream>
+	<bits/stdc++.h>
+
